@@ -1,4 +1,4 @@
-import styles from './ButtonB.module.css';
+import styles from '../elements/ButtonB.module.css';
 
 function ButtonB({ text, link }) {
     return (
