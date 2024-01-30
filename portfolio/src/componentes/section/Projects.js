@@ -23,8 +23,8 @@ function Projects() {
             title="PORTFÓLIO" 
             tech="React" 
             description= "Desenvolvimento de um Portfólio para o lançamento de formação em tecnologia" 
-            repo="https://github.com/wagner1067/React" 
-            site="..."
+            repo="https://github.com/wagner1067/React/tree/main/portfolio" 
+            site="https://portfolio-psi-kohl-51.vercel.app/"
             />
             <Card
             img={API} 
