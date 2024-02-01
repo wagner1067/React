@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 function Presentation() {
 
     const [text, setText] = useState('');
-    const toRotate = ['Wagner Oliveira', 'Desenvolvedor Front End', 'Desenvolvedor Back End', 'Full Stack'];
+    const toRotate = ['Wagner Oliveira!', 'Desenvolvedor Front End!', 'Desenvolvedor Back End!', 'Full Stack!'];
     const [loop, setLoop] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
     const period = 100;
