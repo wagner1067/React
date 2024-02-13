@@ -42,6 +42,14 @@ function Projects() {
             repo="..." 
             site="https://www.figma.com/file/IPMW2B8yfOdA1t5Yb5f1nV/Projeto-DNC-Delivery-Ease?type=design&node-id=15%3A2&mode=design&t=svL8ONhDRsCVuq2P-1"
             />
+             <Card
+            img={Tarefas}
+            title="ORganizador de Tarefas" 
+            tech="React Vite, React Icons,SASS e React Router" 
+            description= "Desenvolvimento de um Organizador de tarefas" 
+            repo="https://github.com/wagner1067/Projeto3DNC" 
+            site="https://projeto3-dnc.vercel.app/"
+            />
             <ButtonB text='Acesse meu repositório' link='https://github.com/wagner1067?tab=repositories' />
         </div>
     )
