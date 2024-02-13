@@ -5,6 +5,7 @@ import lpdnc from '../../image/projects/lpdnc.svg';
 import portfoliomeu from '../../image/projects/portfoliomeu.jpg';
 import API from '../../image/projects/API.jpg';
 import Prototipo from '../../image/projects/Prototipo.jpg';
+import Tarefas from '../../image/projects/Tarefas.jpg';
 
 function Projects() {
     return (
@@ -43,7 +44,7 @@ function Projects() {
             site="https://www.figma.com/file/IPMW2B8yfOdA1t5Yb5f1nV/Projeto-DNC-Delivery-Ease?type=design&node-id=15%3A2&mode=design&t=svL8ONhDRsCVuq2P-1"
             />
              <Card
-            img={Prototipo}
+            img={Tarefas}
             title="Organizador de Tarefas" 
             tech="React Vite, React Icons,SASS e React Router" 
             description= "Desenvolvimento de um Organizador de tarefas" 
