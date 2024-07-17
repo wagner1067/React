@@ -45,8 +45,7 @@ function Presentation() {
                 Sou apaixonado por tecnologia e soluções inovadoras.<br />
                 Estou cursando tecnologia na Escola DNC, esse portfólio <br />
                 será para mostrar minha evolução, aprendizado e projetos<br />
-                particulares e do curso. Atualmente trabalho num provedor <br />
-                de internet.
+                particulares e do curso. <br />
             </p>
             <ButtonA link='https://github.com/wagner1067' text='Conecte-se comigo!' />
 

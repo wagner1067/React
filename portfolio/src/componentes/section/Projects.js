@@ -6,7 +6,8 @@ import portfoliomeu from '../../image/projects/portfoliomeu.jpg';
 import API from '../../image/projects/API.jpg';
 import Prototipo from '../../image/projects/Prototipo.jpg';
 import Tarefas from '../../image/projects/Tarefas.jpg';
-import thelibrary from '../../image/projects/desafio 5.png'
+import thelibrary from '../../image/projects/desafio 5.png';
+import Eco from '../../image/projects/ecotraining.png';
 
 function Projects() {
     return (
@@ -59,6 +60,14 @@ function Projects() {
                 description="Desenvolvimento de uma Biblioteca de livros usando API REST local"
                 repo="https://github.com/wagner1067/the-library-back"
                 site="https://the-library-indol.vercel.app/"
+            />
+            <Card
+                img={Eco}
+                title="Landing Page- Freelance"
+                tech="React JS, React Icons, EmailJS. "
+                description="Desenvolvimento um landing page para cliente ele veio com ideia e feito no figma e desenvolvido e hospedado."
+                repo="https://github.com/wagner1067/eco_training"
+                site="https://ecotraining.com.br/"
             />
             <ButtonB text='Acesse meu repositório' link='https://github.com/wagner1067?tab=repositories' />
         </div>

@@ -9,7 +9,7 @@ function Footer() {
                 <li><a href='https://github.com/wagner1067' target='_blank'><FaGithub size={30} /></a></li>
                 <li><a href='https://www.linkedin.com/in/wagner-oliveira-14a8b4289/' target='_blank'><FaLinkedin size={30} /></a></li>
             </ul>
-            <p>wagnerbejota@hotmail.com</p>
+            <p>contato.wagner.jesus@hotmail.com</p>
             <p>Wagner Oliveira © 2024</p>
         </div>
     )
