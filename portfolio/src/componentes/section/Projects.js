@@ -8,6 +8,7 @@ import Prototipo from '../../image/projects/Prototipo.jpg';
 import Tarefas from '../../image/projects/Tarefas.jpg';
 import thelibrary from '../../image/projects/desafio 5.png';
 import Eco from '../../image/projects/ecotraining.png';
+import Projeto from '../../image/projects/projeto.jpg'
 
 function Projects() {
     return (
@@ -64,10 +65,18 @@ function Projects() {
             <Card
                 img={Eco}
                 title="Landing Page- Freelance"
-                tech="React JS, React Icons, EmailJS. "
+                tech="React Vite JS, Api , EmailJS. "
                 description="Desenvolvimento um landing page para cliente ele veio com ideia e feito no figma e desenvolvido e hospedado."
                 repo="https://github.com/wagner1067/eco_training"
                 site="https://ecotraining.com.br/"
+            />
+            <Card
+                img={Projeto}
+                title="Landing Page"
+                tech="React JS, React Icons, Web3Forms, Context Api e localStorage. "
+                description="Desenvolvimento um landing page de Arquitetos."
+                repo="https://github.com/wagner1067/ReactVite/tree/main/ReactAulaNova/arq-wagner"
+                site="https://arq-wagner.vercel.app/"
             />
             <ButtonB text='Acesse meu repositório' link='https://github.com/wagner1067?tab=repositories' />
         </div>
